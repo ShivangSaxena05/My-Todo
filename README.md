@@ -1,8 +1,36 @@
-# React + Vite
+## **MyTasks: A React-Vite-Tailwind CSS Todo App**
+### **Introduction**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MyTasks is a simple yet effective to-do list application built using React, Vite, and Tailwind CSS. It provides a user-friendly interface for creating, managing, and tracking tasks.
 
-Currently, two official plugins are available:
+### **Key Features**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* **Task Creation:** Users can easily add new tasks by entering a description in the provided input field.
+* **Task Management:** Tasks are displayed in a list format, allowing users to view, edit, and mark them as completed.
+* **Task Completion:** Completed tasks can be hidden or shown using a toggle switch, providing a clear overview of pending tasks.
+* **Responsive Design:** The application is designed to be responsive, ensuring a seamless experience across different devices and screen sizes.
+* **Tailwind CSS Styling:** Tailwind CSS is used to provide a modern and visually appealing interface with customizable styles.
+
+  ### **Technology Stack**
+
+* **React:** A popular JavaScript library for building user interfaces.
+* **Vite:** A fast and modern build tool for web applications.
+* **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+
+  ### **Screenshots**
+![Screenshot 2024-09-01 162204](https://github.com/user-attachments/assets/499f6a17-24e9-4bdd-98ef-47d0f61c9a3f)
+
+![Screenshot 2024-09-01 162307](https://github.com/user-attachments/assets/56634906-d56b-4b10-827f-ecf38663efa5)
+
+  ![Screenshot 2024-09-01 162323](https://github.com/user-attachments/assets/66577526-2fbd-42de-ba01-f2a039feb574)
+
+
+### **Getting Started**
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/ShivangSaxena05/My-Todo.git](https://github.com/ShivangSaxena05/My-Todo.git)
+   cd my-tasks-app
+
+npm install
+npm run dev
