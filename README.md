@@ -23,14 +23,3 @@ MyTasks is a simple yet effective to-do list application built using React, Vite
 ![Screenshot 2024-09-01 162307](https://github.com/user-attachments/assets/56634906-d56b-4b10-827f-ecf38663efa5)
 
   ![Screenshot 2024-09-01 162323](https://github.com/user-attachments/assets/66577526-2fbd-42de-ba01-f2a039feb574)
-
-
-### **Getting Started**
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/ShivangSaxena05/My-Todo.git](https://github.com/ShivangSaxena05/My-Todo.git)
-   cd my-tasks-app
-
-npm install
-npm run dev
